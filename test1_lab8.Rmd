@@ -1,0 +1,10 @@
+---
+title: "test1_lab8"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I do not like green eggs and ham, I do not like them Sam I am. 
